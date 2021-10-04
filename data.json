@@ -1,0 +1,13 @@
+[
+    {
+        "id":"0",
+        "productNmae":"Apple",
+        "image":"",
+        "cpu":"Intel Core i7 ,8th generation",
+        "ram":"8GB",
+        "storage":"512 GB SSD",
+        "screen":"15.6-inch,3k (3000 * 2080)",
+        "price":"1499",
+        "description":"Laptop"
+    }
+]
